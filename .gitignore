@@ -1,0 +1,46 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+venv/
+.venv/
+env/
+.env
+
+# Unit test / coverage
+htmlcov/
+.pytest_cache/
+.coverage
+.coverage.*
+*.cover
+.tox/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# SQLite databases
+*.db
+*.sqlite3
+*.sqlite
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# mypy / ruff cache
+.mypy_cache/
+.ruff_cache/
+
+# Environment variables
+.env
+.env.*
